@@ -23,8 +23,8 @@ A powerful phonetics transcription tool that converts text into **IPA (Internati
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/phonetics-transcription-tool.git
-cd phonetics-transcription-tool
+git clone https://github.com/Deepakjd-dev/Text-to-Speech-.git
+cd Text-to-Speech
 
 # Install dependencies
 pip install -r requirements.txt
